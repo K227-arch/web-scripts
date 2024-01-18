@@ -1,0 +1,47 @@
+.fcontainer {
+    width: 100%;
+    margin-top: 32px;
+    border-top: 2px;
+    border-color: black;
+    
+}
+
+.ftop {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-top: 16px;
+    
+    
+
+}
+
+.flogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flinks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.flinks a {
+    margin: 8px;
+    text-decoration: none;
+}
+
+.fbottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}

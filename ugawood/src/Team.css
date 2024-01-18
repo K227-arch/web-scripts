@@ -1,0 +1,16 @@
+
+
+
+.img {
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto auto auto;
+    
+    padding: 10px;
+    }
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+.wrapper {
+  width: 100%;
+  margin: auto;
+}
+
+.wcontainer {
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+.impcard {
+  height: 450px;
+  background-color:white;
+  
+}
+
+.cardimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.cardtext {
+  color: white;
+  
+}
+
+.cardtext p {
+    text-align: center;
+
+}
+
+.cimg {
+  object-fit: cover;
+  width: 400px;
+  height: 400px;
+}
